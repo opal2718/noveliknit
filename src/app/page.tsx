@@ -1,4 +1,4 @@
-import { Home, BookOpen, User, Coins, PenTool } from "lucide-react";
+//import { Home, BookOpen, User, Coins, PenTool } from "lucide-react";
 import NavBar from "@/components/NavBar";
 
 export default function NoveliknitLayout() {
